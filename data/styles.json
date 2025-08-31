@@ -1,0 +1,41 @@
+[
+  {
+    "id": "bob-classico",
+    "name": "Bob Clásico",
+    "group": "Corto",
+    "keywords": ["sencillo", "atemporal", "versátil", "liso"],
+    "short": "Un corte recto a la altura de la mandíbula que se adapta a todo tipo de rostros.",
+    "images": [
+      "/images/bob-classico/front.jpg",
+      "/images/bob-classico/side.jpg",
+      "/images/bob-classico/back.jpg",
+      "/images/bob-classico/detail.jpg"
+    ]
+  },
+  {
+    "id": "rizado-natural",
+    "name": "Rizado Natural",
+    "group": "Rizado",
+    "keywords": ["volumen", "espontáneo", "textura", "dinámico"],
+    "short": "Melena rizada con volumen definido y movimiento libre.",
+    "images": [
+      "/images/rizado-natural/front.jpg",
+      "/images/rizado-natural/side.jpg",
+      "/images/rizado-natural/back.jpg",
+      "/images/rizado-natural/detail.jpg"
+    ]
+  },
+  {
+    "id": "undercut-moderno",
+    "name": "Undercut Moderno",
+    "group": "Urbano",
+    "keywords": ["contraste", "atrevido", "rebajado", "estilizado"],
+    "short": "Corte de inspiración urbana con rapado lateral y copete largo.",
+    "images": [
+      "/images/undercut-moderno/front.jpg",
+      "/images/undercut-moderno/side.jpg",
+      "/images/undercut-moderno/back.jpg",
+      "/images/undercut-moderno/detail.jpg"
+    ]
+  }
+]

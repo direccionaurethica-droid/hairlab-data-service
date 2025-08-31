@@ -1,20 +1,49 @@
 [
   {
-    "id": "why-hair",
-    "question": "¿Cuál es tu principal motivación al cambiar de look?",
+    "id": "expression",
+    "question": "¿Te gusta que tu ropa llame la atención? ¿La usas como forma de expresión?",
     "options": [
-      { "id": "new-look", "text": "Explorar un estilo nuevo" },
-      { "id": "define-style", "text": "Definir mi propio estilo" },
-      { "id": "routine-change", "text": "Salir de la rutina" }
+      {
+        "id": "expresiva",
+        "text": "Sí. Creo que la ropa es una forma de expresión, y depende de cómo me siento me visto de una manera u otra.",
+        "image": "/public/auréthica/onboarding/expresion-a.jpg"
+      },
+      {
+        "id": "basicos",
+        "text": "No. Soy de usar siempre los básicos, no me rompo la cabeza en qué me compro o me pongo.",
+        "image": "/public/auréthica/onboarding/expresion-b.jpg"
+      }
     ]
   },
   {
-    "id": "frequency-change",
-    "question": "¿Con qué frecuencia experimentas con tu peinado?",
+    "id": "complementos",
+    "question": "¿Qué lugar ocupan los complementos en tu día a día?",
     "options": [
-      { "id": "rarely", "text": "Casi nunca" },
-      { "id": "sometimes", "text": "Ocasionalmente" },
-      { "id": "often", "text": "Frecuentemente" }
+      {
+        "id": "obligatorio",
+        "text": "El complemento es obligatorio. Siempre eleva el look.",
+        "image": "/public/auréthica/onboarding/complementos-1a.jpg"
+      },
+      {
+        "id": "equilibrio",
+        "text": "El complemento es importante, pero en su medida. Me gusta que complemente sin robar protagonismo.",
+        "image": "/public/auréthica/onboarding/complementos-1b.jpg"
+      },
+      {
+        "id": "basico",
+        "text": "Lo básico. Siempre llevo el mismo collar o pendientes. No me los quito ni para dormir.",
+        "image": "/public/auréthica/onboarding/complementos-1c.jpg"
+      },
+      {
+        "id": "clasica",
+        "text": "Soy muy clásica. Pendientes obligatorios, iluminan la mirada. Y según la ocasión me los cambio y combino con lo que más me gusta.",
+        "image": "/public/auréthica/onboarding/complementos-2a.jpg"
+      },
+      {
+        "id": "nada",
+        "text": "Lo que llevo para dormir, si llevo algo… y ya.",
+        "image": "/public/auréthica/onboarding/complementos-2b.jpg"
+      }
     ]
   }
 ]

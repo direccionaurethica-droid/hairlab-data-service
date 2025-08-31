@@ -1,0 +1,20 @@
+[
+  {
+    "id": "why-hair",
+    "question": "¿Cuál es tu principal motivación al cambiar de look?",
+    "options": [
+      { "id": "new-look", "text": "Explorar un estilo nuevo" },
+      { "id": "define-style", "text": "Definir mi propio estilo" },
+      { "id": "routine-change", "text": "Salir de la rutina" }
+    ]
+  },
+  {
+    "id": "frequency-change",
+    "question": "¿Con qué frecuencia experimentas con tu peinado?",
+    "options": [
+      { "id": "rarely", "text": "Casi nunca" },
+      { "id": "sometimes", "text": "Ocasionalmente" },
+      { "id": "often", "text": "Frecuentemente" }
+    ]
+  }
+]

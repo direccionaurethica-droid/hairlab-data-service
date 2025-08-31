@@ -1,0 +1,21 @@
+{
+  "name": "hairlab-data-service",
+  "version": "0.1.0",
+  "description": "Backend y API de Hair Lab Data Service. Este servicio expone una API REST para consultar estilos capilares y sus metadatos. Está pensado como base para integraciones B2B con salones, academias y plataformas beauty-tech.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "hair",
+    "api",
+    "styles",
+    "backend"
+  ],
+  "author": "Auréthica",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.4"
+  }
+}

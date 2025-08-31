@@ -1,0 +1,12 @@
+{
+  "fromTo": {
+    "bob-classico": {
+      "bob-classico": "Ya dominas el clásico bob, sigue explorando variaciones con distintos acabados.",
+      "rizado-natural": "Del corte pulido al rizo libre: atrévete a mostrar volumen y textura."
+    },
+    "rizado-natural": {
+      "bob-classico": "¿Buscas definición? El bob clásico acentuará tus facciones y te dará frescura.",
+      "undercut-moderno": "Tu melena rizosa puede sorprender con un undercut que insinúe movimiento y rebeldía."
+    }
+  }
+}

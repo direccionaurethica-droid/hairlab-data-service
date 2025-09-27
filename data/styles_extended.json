@@ -1,0 +1,782 @@
+[
+  {
+    "id": "bob-asimetrico",
+    "name": "Bob Asimétrico",
+    "group": "Corto",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado",
+      "Corazón"
+    ],
+    "keywords": [
+      "moderno",
+      "dinámico",
+      "versátil"
+    ],
+    "short": "Un bob con líneas desiguales que aporta movimiento y estilo",
+    "images": [
+      "/images/bob-asimetrico/front.jpg",
+      "/images/bob-asimetrico/side.jpg",
+      "/images/bob-asimetrico/back.jpg",
+      "/images/bob-asimetrico/detail.jpg"
+    ]
+  },
+  {
+    "id": "shaggy-largo",
+    "name": "Shaggy Largo",
+    "group": "Largo",
+    "category": "Tendencia",
+    "hair_types": [
+      "Ondulado",
+      "Rizado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Redondo"
+    ],
+    "keywords": [
+      "capas",
+      "despeinado",
+      "volumen"
+    ],
+    "short": "Corte largo con capas y textura que crea un look desenfadado",
+    "images": [
+      "/images/shaggy-largo/front.jpg",
+      "/images/shaggy-largo/side.jpg",
+      "/images/shaggy-largo/back.jpg",
+      "/images/shaggy-largo/detail.jpg"
+    ]
+  },
+  {
+    "id": "blunt-bob",
+    "name": "Blunt Bob",
+    "group": "Medio",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "recto",
+      "minimalista",
+      "pulido"
+    ],
+    "short": "Un bob recto a la altura de la barbilla con acabado elegante",
+    "images": [
+      "/images/blunt-bob/front.jpg",
+      "/images/blunt-bob/side.jpg",
+      "/images/blunt-bob/back.jpg",
+      "/images/blunt-bob/detail.jpg"
+    ]
+  },
+  {
+    "id": "french-bob",
+    "name": "French Bob",
+    "group": "Corto",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado"
+    ],
+    "keywords": [
+      "elegante",
+      "parisino",
+      "bohemio"
+    ],
+    "short": "Bob corto inspirado en el estilo parisino con puntas suaves",
+    "images": [
+      "/images/french-bob/front.jpg",
+      "/images/french-bob/side.jpg",
+      "/images/french-bob/back.jpg",
+      "/images/french-bob/detail.jpg"
+    ]
+  },
+  {
+    "id": "wolf-cut",
+    "name": "Wolf Cut",
+    "group": "Medio",
+    "category": "Tendencia",
+    "hair_types": [
+      "Ondulado",
+      "Rizado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "atrapado",
+      "capa",
+      "volumen"
+    ],
+    "short": "Mezcla entre mullet y shaggy con capas largas y cortas",
+    "images": [
+      "/images/wolf-cut/front.jpg",
+      "/images/wolf-cut/side.jpg",
+      "/images/wolf-cut/back.jpg",
+      "/images/wolf-cut/detail.jpg"
+    ]
+  },
+  {
+    "id": "curtain-bangs",
+    "name": "Cortina Bangs",
+    "group": "Medio",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Rectangular"
+    ],
+    "keywords": [
+      "flequillo",
+      "partido",
+      "vintage"
+    ],
+    "short": "Flequillo abierto al centro que enmarca el rostro con suavidad",
+    "images": [
+      "/images/curtain-bangs/front.jpg",
+      "/images/curtain-bangs/side.jpg",
+      "/images/curtain-bangs/back.jpg",
+      "/images/curtain-bangs/detail.jpg"
+    ]
+  },
+  {
+    "id": "mixie-mullet",
+    "name": "Mixie Mullet",
+    "group": "Corto",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "atrevido",
+      "capas",
+      "retro"
+    ],
+    "short": "Híbrido entre pixie y mullet con capas atrevidas",
+    "images": [
+      "/images/mixie-mullet/front.jpg",
+      "/images/mixie-mullet/side.jpg",
+      "/images/mixie-mullet/back.jpg",
+      "/images/mixie-mullet/detail.jpg"
+    ]
+  },
+  {
+    "id": "pixie-largo",
+    "name": "Pixie Largo",
+    "group": "Corto",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "suave",
+      "femenino",
+      "moderno"
+    ],
+    "short": "Pixie con capas más largas que aportan suavidad al rostro",
+    "images": [
+      "/images/pixie-largo/front.jpg",
+      "/images/pixie-largo/side.jpg",
+      "/images/pixie-largo/back.jpg",
+      "/images/pixie-largo/detail.jpg"
+    ]
+  },
+  {
+    "id": "butterfly-haircut",
+    "name": "Butterfly Haircut",
+    "group": "Largo",
+    "category": "Tendencia",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "capas",
+      "volumen",
+      "romántico"
+    ],
+    "short": "Corte largo con capas fluidas que recuerdan alas de mariposa",
+    "images": [
+      "/images/butterfly-haircut/front.jpg",
+      "/images/butterfly-haircut/side.jpg",
+      "/images/butterfly-haircut/back.jpg",
+      "/images/butterfly-haircut/detail.jpg"
+    ]
+  },
+  {
+    "id": "modern-shag",
+    "name": "Modern Shag",
+    "group": "Medio",
+    "category": "Tendencia",
+    "hair_types": [
+      "Ondulado",
+      "Rizado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Redondo"
+    ],
+    "keywords": [
+      "textura",
+      "capas",
+      "despeinado"
+    ],
+    "short": "Shaggy actualizado con capas suaves y flequillo ligero",
+    "images": [
+      "/images/modern-shag/front.jpg",
+      "/images/modern-shag/side.jpg",
+      "/images/modern-shag/back.jpg",
+      "/images/modern-shag/detail.jpg"
+    ]
+  },
+  {
+    "id": "undercut-moderno",
+    "name": "Undercut Moderno",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Cuadrado",
+      "Ovalado"
+    ],
+    "keywords": [
+      "contraste",
+      "rapado",
+      "copete"
+    ],
+    "short": "Lados rapados con parte superior larga y estilizada",
+    "images": [
+      "/images/undercut-moderno/front.jpg",
+      "/images/undercut-moderno/side.jpg",
+      "/images/undercut-moderno/back.jpg",
+      "/images/undercut-moderno/detail.jpg"
+    ]
+  },
+  {
+    "id": "mullet-geometrico",
+    "name": "Mullet Geométrico",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Cuadrado",
+      "Ovalado"
+    ],
+    "keywords": [
+      "asimetría",
+      "recto",
+      "retro"
+    ],
+    "short": "Mullet con líneas rectas y ángulos definidos",
+    "images": [
+      "/images/mullet-geometrico/front.jpg",
+      "/images/mullet-geometrico/side.jpg",
+      "/images/mullet-geometrico/back.jpg",
+      "/images/mullet-geometrico/detail.jpg"
+    ]
+  },
+  {
+    "id": "pixie-punk",
+    "name": "Pixie Punk",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "rapado",
+      "contraste",
+      "grunge"
+    ],
+    "short": "Pixie ultra corto con contrastes atrevidos y textura desordenada",
+    "images": [
+      "/images/pixie-punk/front.jpg",
+      "/images/pixie-punk/side.jpg",
+      "/images/pixie-punk/back.jpg",
+      "/images/pixie-punk/detail.jpg"
+    ]
+  },
+  {
+    "id": "half-shaved",
+    "name": "Rapado Medio",
+    "group": "Medio",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado"
+    ],
+    "keywords": [
+      "disruptivo",
+      "rapado",
+      "asimétrico"
+    ],
+    "short": "Un lado rapado dejando una sección más larga en contraste",
+    "images": [
+      "/images/half-shaved/front.jpg",
+      "/images/half-shaved/side.jpg",
+      "/images/half-shaved/back.jpg",
+      "/images/half-shaved/detail.jpg"
+    ]
+  },
+  {
+    "id": "mohawk-suave",
+    "name": "Mohawk Suave",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Rectangular"
+    ],
+    "keywords": [
+      "cresta",
+      "gradual",
+      "rebeldía"
+    ],
+    "short": "Versión suavizada del mohicano con degradado sutil",
+    "images": [
+      "/images/mohawk-suave/front.jpg",
+      "/images/mohawk-suave/side.jpg",
+      "/images/mohawk-suave/back.jpg",
+      "/images/mohawk-suave/detail.jpg"
+    ]
+  },
+  {
+    "id": "diseno-rapado",
+    "name": "Diseño Rapado",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Cuadrado",
+      "Ovalado"
+    ],
+    "keywords": [
+      "arte",
+      "rapado",
+      "custom"
+    ],
+    "short": "Rapado con dibujos o patrones personalizados en la nuca o laterales",
+    "images": [
+      "/images/diseno-rapado/front.jpg",
+      "/images/diseno-rapado/side.jpg",
+      "/images/diseno-rapado/back.jpg",
+      "/images/diseno-rapado/detail.jpg"
+    ]
+  },
+  {
+    "id": "color-block",
+    "name": "Bloque de Color",
+    "group": "Medio-Largo",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "color",
+      "contraste",
+      "moderno"
+    ],
+    "short": "Corte recto con secciones de color contrastantes",
+    "images": [
+      "/images/color-block/front.jpg",
+      "/images/color-block/side.jpg",
+      "/images/color-block/back.jpg",
+      "/images/color-block/detail.jpg"
+    ]
+  },
+  {
+    "id": "cyber-bob",
+    "name": "Cyber Bob",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Rectangular"
+    ],
+    "keywords": [
+      "futurista",
+      "sintético",
+      "tecnológico"
+    ],
+    "short": "Bob inspirado en la estética cyberpunk con colores eléctricos",
+    "images": [
+      "/images/cyber-bob/front.jpg",
+      "/images/cyber-bob/side.jpg",
+      "/images/cyber-bob/back.jpg",
+      "/images/cyber-bob/detail.jpg"
+    ]
+  },
+  {
+    "id": "spiky-top",
+    "name": "Punta Pincho",
+    "group": "Corto",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado"
+    ],
+    "keywords": [
+      "puntas",
+      "punk",
+      "volumen"
+    ],
+    "short": "Corte corto con puntas estilizadas hacia arriba",
+    "images": [
+      "/images/spiky-top/front.jpg",
+      "/images/spiky-top/side.jpg",
+      "/images/spiky-top/back.jpg",
+      "/images/spiky-top/detail.jpg"
+    ]
+  },
+  {
+    "id": "asymmetric-mullet",
+    "name": "Mullet Asimétrico",
+    "group": "Medio",
+    "category": "Transgresor",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "asimétrico",
+      "retro",
+      "atrevido"
+    ],
+    "short": "Versión contemporánea del mullet con un lado más largo que el otro",
+    "images": [
+      "/images/asymmetric-mullet/front.jpg",
+      "/images/asymmetric-mullet/side.jpg",
+      "/images/asymmetric-mullet/back.jpg",
+      "/images/asymmetric-mullet/detail.jpg"
+    ]
+  },
+  {
+    "id": "bob-classico",
+    "name": "Bob Clásico",
+    "group": "Corto",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado",
+      "Corazón"
+    ],
+    "keywords": [
+      "sencillo",
+      "atemporal",
+      "versátil"
+    ],
+    "short": "Un corte recto a la altura de la mandíbula que se adapta a todo tipo de rostros",
+    "images": [
+      "/images/bob-classico/front.jpg",
+      "/images/bob-classico/side.jpg",
+      "/images/bob-classico/back.jpg",
+      "/images/bob-classico/detail.jpg"
+    ]
+  },
+  {
+    "id": "pixie-suave",
+    "name": "Pixie Suave",
+    "group": "Corto",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "delicado",
+      "sutil",
+      "femenino"
+    ],
+    "short": "Pixie clásico con líneas suaves y corte homogéneo",
+    "images": [
+      "/images/pixie-suave/front.jpg",
+      "/images/pixie-suave/side.jpg",
+      "/images/pixie-suave/back.jpg",
+      "/images/pixie-suave/detail.jpg"
+    ]
+  },
+  {
+    "id": "lob",
+    "name": "Long Bob (Lob)",
+    "group": "Medio",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Cuadrado",
+      "Corazón"
+    ],
+    "keywords": [
+      "largo",
+      "versátil",
+      "sofisticado"
+    ],
+    "short": "Versión alargada del bob que cae por encima de los hombros",
+    "images": [
+      "/images/lob/front.jpg",
+      "/images/lob/side.jpg",
+      "/images/lob/back.jpg",
+      "/images/lob/detail.jpg"
+    ]
+  },
+  {
+    "id": "layered-long",
+    "name": "Capas Largas",
+    "group": "Largo",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado",
+      "Rizado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Redondo",
+      "Corazón"
+    ],
+    "keywords": [
+      "capas",
+      "movimiento",
+      "natural"
+    ],
+    "short": "Cabello largo con capas suaves que añaden movimiento",
+    "images": [
+      "/images/layered-long/front.jpg",
+      "/images/layered-long/side.jpg",
+      "/images/layered-long/back.jpg",
+      "/images/layered-long/detail.jpg"
+    ]
+  },
+  {
+    "id": "rizado-natural",
+    "name": "Rizado Natural",
+    "group": "Rizado",
+    "category": "Clásico",
+    "hair_types": [
+      "Rizado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Redondo"
+    ],
+    "keywords": [
+      "volumen",
+      "espontáneo",
+      "textura"
+    ],
+    "short": "Melena rizada con volumen definido y movimiento libre",
+    "images": [
+      "/images/rizado-natural/front.jpg",
+      "/images/rizado-natural/side.jpg",
+      "/images/rizado-natural/back.jpg",
+      "/images/rizado-natural/detail.jpg"
+    ]
+  },
+  {
+    "id": "pageboy-cut",
+    "name": "Pageboy",
+    "group": "Corto",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Rectangular"
+    ],
+    "keywords": [
+      "retro",
+      "liso",
+      "simetría"
+    ],
+    "short": "Corte redondeado con flequillo recto al estilo pageboy",
+    "images": [
+      "/images/pageboy-cut/front.jpg",
+      "/images/pageboy-cut/side.jpg",
+      "/images/pageboy-cut/back.jpg",
+      "/images/pageboy-cut/detail.jpg"
+    ]
+  },
+  {
+    "id": "blunt-cut",
+    "name": "Blunt Cut",
+    "group": "Medio",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Rectangular"
+    ],
+    "keywords": [
+      "recto",
+      "minimalista",
+      "pulido"
+    ],
+    "short": "Corte recto sin capas que da apariencia de densidad",
+    "images": [
+      "/images/blunt-cut/front.jpg",
+      "/images/blunt-cut/side.jpg",
+      "/images/blunt-cut/back.jpg",
+      "/images/blunt-cut/detail.jpg"
+    ]
+  },
+  {
+    "id": "straight-long",
+    "name": "Largo Recto",
+    "group": "Largo",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "simple",
+      "clásico",
+      "natural"
+    ],
+    "short": "Cabello largo perfectamente alineado y pulido",
+    "images": [
+      "/images/straight-long/front.jpg",
+      "/images/straight-long/side.jpg",
+      "/images/straight-long/back.jpg",
+      "/images/straight-long/detail.jpg"
+    ]
+  },
+  {
+    "id": "classic-bangs",
+    "name": "Flequillo Clásico",
+    "group": "Corto/Medio",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón",
+      "Rectangular"
+    ],
+    "keywords": [
+      "flequillo",
+      "atemporal",
+      "marco"
+    ],
+    "short": "Cabello con flequillo recto que aporta un look juvenil y clásico",
+    "images": [
+      "/images/classic-bangs/front.jpg",
+      "/images/classic-bangs/side.jpg",
+      "/images/classic-bangs/back.jpg",
+      "/images/classic-bangs/detail.jpg"
+    ]
+  },
+  {
+    "id": "side-swept-bob",
+    "name": "Bob con Raya Lateral",
+    "group": "Medio",
+    "category": "Clásico",
+    "hair_types": [
+      "Liso",
+      "Ondulado"
+    ],
+    "face_shapes": [
+      "Ovalado",
+      "Corazón"
+    ],
+    "keywords": [
+      "asimetría",
+      "elegante",
+      "suave"
+    ],
+    "short": "Bob con raya lateral que crea un efecto de volumen y elegancia",
+    "images": [
+      "/images/side-swept-bob/front.jpg",
+      "/images/side-swept-bob/side.jpg",
+      "/images/side-swept-bob/back.jpg",
+      "/images/side-swept-bob/detail.jpg"
+    ]
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "id": "castano-oscuro",
+    "name": "Castaño Oscuro",
+    "hex": "#4B2A14",
+    "category": "Clásico",
+    "intensity": "Medio",
+    "description": "Tono marrón profundo que resalta la calidez natural."
+  },
+  {
+    "id": "rubio-miel",
+    "name": "Rubio Miel",
+    "hex": "#D8B374",
+    "category": "Clásico",
+    "intensity": "Suave",
+    "description": "Matiz dorado cálido que ilumina el rostro."
+  },
+  {
+    "id": "negro-azabache",
+    "name": "Negro Azabache",
+    "hex": "#0B0B0B",
+    "category": "Clásico",
+    "intensity": "Audaz",
+    "description": "Color negro intenso con brillo sedoso."
+  },
+  {
+    "id": "chocolate",
+    "name": "Chocolate",
+    "hex": "#5A3825",
+    "category": "Clásico",
+    "intensity": "Medio",
+    "description": "Marrón chocolate rico y sofisticado."
+  },
+  {
+    "id": "marron-avellana",
+    "name": "Avellana",
+    "hex": "#8E5E3B",
+    "category": "Clásico",
+    "intensity": "Medio",
+    "description": "Tono castaño cálido con matices rojizos."
+  },
+  {
+    "id": "cobre-rojizo",
+    "name": "Cobre Rojizo",
+    "hex": "#B55239",
+    "category": "Tendencia",
+    "intensity": "Audaz",
+    "description": "Rojo cobrizo intenso que aporta personalidad."
+  },
+  {
+    "id": "balayage-chocolate",
+    "name": "Balayage Chocolate",
+    "hex": "#7C4A31",
+    "category": "Tendencia",
+    "intensity": "Medio",
+    "description": "Técnica de mechas que mezcla tonos chocolate y caramelo."
+  },
+  {
+    "id": "rubio-polar",
+    "name": "Rubio Polar",
+    "hex": "#E5E2DD",
+    "category": "Tendencia",
+    "intensity": "Audaz",
+    "description": "Rubio casi blanco que crea un look helado y moderno."
+  },
+  {
+    "id": "miel-rosado",
+    "name": "Rubio Rosado",
+    "hex": "#E2C1C8",
+    "category": "Tendencia",
+    "intensity": "Suave",
+    "description": "Rubio con matices rosas para un look sutil y romántico."
+  },
+  {
+    "id": "lila-metil",
+    "name": "Lila Metálico",
+    "hex": "#B49ACD",
+    "category": "Tendencia",
+    "intensity": "Audaz",
+    "description": "Tono lila con brillo metálico suave."
+  },
+  {
+    "id": "azul-electrico",
+    "name": "Azul Eléctrico",
+    "hex": "#0C3B5B",
+    "category": "Transgresor",
+    "intensity": "Audaz",
+    "description": "Azul profundo y vibrante para un look impactante."
+  },
+  {
+    "id": "rosa-chicle",
+    "name": "Rosa Chicle",
+    "hex": "#F06C9B",
+    "category": "Transgresor",
+    "intensity": "Audaz",
+    "description": "Rosa brillante y alegre para un estilo divertido."
+  },
+  {
+    "id": "verde-neon",
+    "name": "Verde Neón",
+    "hex": "#39FF14",
+    "category": "Transgresor",
+    "intensity": "Audaz",
+    "description": "Verde fosforescente que atrae todas las miradas."
+  },
+  {
+    "id": "morado-profund",
+    "name": "Morado Profundo",
+    "hex": "#4B0082",
+    "category": "Transgresor",
+    "intensity": "Medio",
+    "description": "Matiz púrpura intenso para un look dramático."
+  },
+  {
+    "id": "gris-humo",
+    "name": "Gris Humo",
+    "hex": "#7B7B7B",
+    "category": "Transgresor",
+    "intensity": "Suave",
+    "description": "Gris ceniza con tonos fríos para un estilo alternativo."
+  }
+]
